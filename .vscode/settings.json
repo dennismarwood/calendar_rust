@@ -1,0 +1,9 @@
+{
+    "rust-analyzer.runnableEnv": {
+        "RUST_LOG": "info",
+        "CASE_INSENSITIVE": "yep",
+    },
+    "rust-analyzer.runnables.extraArgs": [
+        ""
+    ]
+}
